@@ -1,1 +1,1 @@
-var version : alpha 4.0.4
+var version : String = alpha 4.0.4
